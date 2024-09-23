@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Eyram Kueviakoe! 👋
 
-I am a data science graduate with over six years of experience in the software industry, expecting to complete my formal education in the summer of 2024. I hold a Master’s degree in Computer Science from The University of Iowa and have built a strong foundation in data analysis, modeling, and automation throughout my career.
+I am a data science graduate 
 
 ## Skills and Expertise 🔧
 
@@ -18,13 +18,10 @@ I am a data science graduate with over six years of experience in the software i
 
 ## My Journey 🌟
 
-My expertise in data processing tools has equipped me to develop and maintain robust data pipelines, ensuring the quality and reliability of analyses. I have applied machine learning algorithms, including supervised and unsupervised learning, to solve complex problems and generate actionable insights.
 
-I am familiar with agile software development methodologies and have worked closely with cross-functional teams to align data-driven initiatives with project timelines and goals. As a dedicated learner, I continuously seek opportunities to expand my knowledge and skills, attending various training sessions, workshops, and industry conferences.
 
 ## Let's Connect! 🤝
-
-I am passionate about staying current with trends in data science and actively engage in online communities to learn from other professionals. If you'd like to collaborate or just connect, feel free to reach out!
+Let's connect
 
 [Your LinkedIn Profile](#) | [Your Twitter](#) | [Your Website](#)
 
