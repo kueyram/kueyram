@@ -6,7 +6,7 @@
 I am a data science graduate 
 
 ## Skills and Expertise 🔧
-
+https://camo.githubusercontent.com/f18ee0cde1d595f07e6c56107c7c6b858fdfac4234652b5b2e06b834bebe8207/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532333337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=30)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&logoWidth=30)
