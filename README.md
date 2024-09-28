@@ -37,7 +37,8 @@ I am a data science graduate
 ## Let's Connect! 🤝
 Let's connect
 
-[www.linkedin.com/in/eyramkueviakoe](#) | [Your Website](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=50)](https://www.linkedin.com/in/eyramkueviakoe)
+ | [Your Website](#)
 
 
 
