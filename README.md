@@ -37,7 +37,7 @@ I am a data science graduate
 ## Let's Connect! 🤝
 Let's connect
 
-[Your LinkedIn Profile](#) | [Your Twitter](#) | [Your Website](#)
+[www.linkedin.com/in/eyramkueviakoe](#) | [Your Website](#)
 
 
 
