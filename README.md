@@ -38,7 +38,8 @@ I am a data science graduate
 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=50)](https://www.linkedin.com/in/eyramkueviakoe)
- | [Your Website](#)
+ | [![Website](https://img.shields.io/badge/Website-0078D4?style=flat&logo=internet-explorer&logoColor=white&logoWidth=50)](https://www.lumen.com)
+
 
 
 
