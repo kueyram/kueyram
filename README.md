@@ -15,6 +15,14 @@ I am a data science graduate
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FCC624?style=flat&logo=apache-hadoop&logoColor=black)
+![HBase](https://img.shields.io/badge/HBase-7B42BC?style=flat&logo=apache-hbase&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Solr](https://img.shields.io/badge/Solr-5B5B5B?style=flat&logo=apache-solr&logoColor=white)
+![Nifi](https://img.shields.io/badge/Nifi-00A8B5?style=flat&logo=apache-nifi&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FCE76E?style=flat&logo=apache-hive&logoColor=black)
+
 
 ## My Journey 🌟
 
