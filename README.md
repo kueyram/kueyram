@@ -3,8 +3,12 @@
 
 # I'm Eyram Kueviakoe! 👋
 
-I'm a passionate data enthusiast currently pursuing my master's degree in Data Science. I hold an associate degree in Database Management and a bachelor's degree in Information Technology.
+I'm a passionate data enthusiast currently pursuing my master's degree in Data Science. I hold an associate degree in Database Management and a bachelor's degree in Information Technology. I am also a Microsoft Azure Certified.
+
+Additionally, I have strong skills in SQL and database technologies, which help me validate and analyze data effectively.
+
 I’m a committed learner who always looks for ways to grow my knowledge and skills. I regularly participate in training sessions, workshops, and industry conferences to keep up with the latest trends in data science and machine learning.
+
 
 ## Skills and Expertise 🔧
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=30)
