@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
-# Hello, I'm Eyram Kueviakoe! 👋
+# I'm Eyram Kueviakoe! 👋
 
-I am a data science graduate 
+I'm a passionate data enthusiast currently pursuing my master's degree in Data Science. I hold an associate degree in Database Management and a bachelor's degree in Information Technology.
+I’m a committed learner who always looks for ways to grow my knowledge and skills. I regularly participate in training sessions, workshops, and industry conferences to keep up with the latest trends in data science and machine learning.
 
 ## Skills and Expertise 🔧
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=30)
@@ -28,9 +29,6 @@ I am a data science graduate
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=30)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white&logoWidth=30)
 ![Seaborn](https://img.shields.io/badge/Seaborn-30B0C7?style=flat&logo=seaborn&logoColor=white&logoWidth=30)
-
-
-## My Journey 🌟
 
 
 
