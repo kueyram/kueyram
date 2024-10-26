@@ -1,13 +1,11 @@
 Eyram Kueviakoe's Portfolio
 
 
-# I'm Eyram Kueviakoe! 👋
+## About me👋
 
-I'm a passionate data enthusiast currently pursuing my master's degree in Data Science. I hold an associate degree in Database Management and a bachelor's degree in Information Technology. I am also a Microsoft Azure Certified.
+I am Eyram Kueviakoe, a passionate data enthusiast currently pursuing a master's degree in Data Science. I hold an associate degree in Database Management and a Bachelor's degree in Information Technology. As a Microsoft Azure Certified, I possess strong skills in SQL and various database technologies, enabling me to effectively validate and analyze data.
 
-Additionally, I have strong skills in SQL and database technologies, which help me validate and analyze data effectively.
-
-I’m a committed learner who always looks for ways to grow my knowledge and skills. I regularly participate in training sessions, workshops, and industry conferences to keep up with the latest trends in data science and machine learning.
+My commitment to continuous learning drives me to participate in training sessions, workshops, and industry conferences to stay updated on the latest trends in data science and machine learning. I believe that a collaborative and innovative approach is key to solving complex business problems, and I'm eager to leverage my skills in meaningful projects.
 
 
 ## Skills and Expertise 🔧
@@ -37,7 +35,13 @@ Here’s a quick overview of my technical proficiencies
 ![Seaborn](https://img.shields.io/badge/Seaborn-30B0C7?style=flat&logo=seaborn&logoColor=white&logoWidth=30)
 
 
-## Work/Projects 
+## Work/Projects 🌟
+In my portfolio, you’ll find a diverse range of projects showcasing my ability to tackle real-world data challenges. Some of the key projects include:
+
+- [Course Recommendation System using Python and Streamlit](https://github.com/kueyram/Course-Recommendation)
+- [Aid and Death Toll Prediction in the Ukraine vs. Russia Conflict](https://github.com/kueyram/Analysis-of-Ukraine-vs-Russia-conflict)
+- [Optimizing Equipment Performance through Predictive Maintenance Strategies](https://github.com/kueyram/Predictive-Maintenance)
+- [Titanic Data Analysis](https://github.com/kueyram/Titanic-Data-Analysis)
 
 
 
