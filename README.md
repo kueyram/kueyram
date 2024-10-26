@@ -1,4 +1,4 @@
-## Hi there 👋
+Eyram Kueviakoe's Portfolio
 
 
 # I'm Eyram Kueviakoe! 👋
@@ -11,6 +11,8 @@ I’m a committed learner who always looks for ways to grow my knowledge and ski
 
 
 ## Skills and Expertise 🔧
+Here’s a quick overview of my technical proficiencies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=30)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&logoWidth=30)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=30)
@@ -33,6 +35,9 @@ I’m a committed learner who always looks for ways to grow my knowledge and ski
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=30)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white&logoWidth=30)
 ![Seaborn](https://img.shields.io/badge/Seaborn-30B0C7?style=flat&logo=seaborn&logoColor=white&logoWidth=30)
+
+
+## Work/Projects 
 
 
 
