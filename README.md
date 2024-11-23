@@ -69,8 +69,6 @@ A time series forecasting model that predicts future sales based on historical s
 A machine learning model designed to predict equipment failures before they occur. By analyzing sensor data from machinery, the project helps in reducing downtime and maintenance costs through predictive maintenance.
 
 
-### 9. [Sales Forecasting Model](https://github.com/kueyram/Automatic-License-Plate-Detection)
-A time series forecasting model that predicts future sales based on historical sales data. The model helps businesses plan their inventory and optimize sales strategies.
 
 ---
 
