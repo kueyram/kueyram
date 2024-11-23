@@ -36,18 +36,38 @@ Here’s a quick overview of my technical proficiencies
 
 
 ## Work/Projects 🌟
-In my portfolio, you’ll find a diverse range of projects showcasing my ability to tackle real-world data challenges. Some of the key projects include:
+This portfolio showcases a collection of projects that demonstrate my skills in data science, machine learning, and software development. Each project reflects my ability to tackle real-world problems using data-driven solutions. Below are some of the key projects I've worked on:
 
-- [Course Recommendation System using Python and Streamlit](https://github.com/kueyram/Course-Recommendation)
-- [Aid and Death Toll Prediction in the Ukraine vs. Russia Conflict](https://github.com/kueyram/Analysis-of-Ukraine-vs-Russia-conflict)
-- [Optimizing Equipment Performance through Predictive Maintenance Strategies](https://github.com/kueyram/Predictive-Maintenance)
-- [Titanic Data Analysis](https://github.com/kueyram/Titanic-Data-Analysis)
-- [Automatic License Plate Reader](https://github.com/kueyram/Automatic-License-Plate-Detection)
-- [Fake News Detection using machine learning](https://github.com/kueyram/Fake-News-Detection)
-- [Customer sentiment analysis](https://github.com/kueyram/Customer-sentiment-analysis)
-- [Fraud-Detection](https://github.com/kueyram/Fraud-Detection)
-- [Course-Recommendation](https://github.com/kueyram/Course-Recommendation)
-- [Sales Forecasting Model](https://github.com/kueyram/Sales-Forecasting-Model)
+### 1. [Course Recommendation System using Python and Streamlit](https://github.com/kueyram/Course-Recommendation)
+A web-based application that suggests relevant courses to users based on their preferences and previous learning activities. Built using Python and Streamlit for a simple and interactive user experience.
+
+### 2. [Aid and Death Toll Prediction in the Ukraine vs. Russia Conflict](https://github.com/kueyram/Analysis-of-Ukraine-vs-Russia-conflict)
+This project analyzes the Ukraine-Russia conflict and predicts potential casualties and aid requirements using historical data and machine learning models. The aim is to provide insights into the ongoing crisis.
+
+### 3. [Optimizing Equipment Performance through Predictive Maintenance Strategies](https://github.com/kueyram/Predictive-Maintenance)
+A machine learning model designed to predict equipment failures before they occur. By analyzing sensor data from machinery, the project helps in reducing downtime and maintenance costs through predictive maintenance.
+
+### 4. [Titanic Data Analysis](https://github.com/kueyram/Titanic-Data-Analysis)
+A classic data analysis project using the Titanic dataset to predict survival rates based on various factors such as age, gender, class, and fare. The project uses data exploration and machine learning to build predictive models.
+
+### 5. [Automatic License Plate Reader](https://github.com/kueyram/Automatic-License-Plate-Detection)
+This computer vision project focuses on detecting and reading license plates from images using OpenCV and machine learning techniques, making it a key tool for automated vehicle identification.
+
+### 6. [Fake News Detection using Machine Learning](https://github.com/kueyram/Fake-News-Detection)
+A natural language processing project that classifies news articles as real or fake based on content. Using machine learning algorithms, the project aims to help combat misinformation in digital media.
+
+### 7. [Customer Sentiment Analysis](https://github.com/kueyram/Customer-sentiment-analysis)
+A sentiment analysis project that analyzes customer feedback to classify reviews as positive, negative, or neutral. This helps businesses improve their services by understanding customer sentiment.
+
+### 8. [Fraud Detection](https://github.com/kueyram/Fraud-Detection)
+A fraud detection model that uses machine learning to identify fraudulent credit card transactions. By analyzing transaction data, the model helps in detecting patterns of fraud to prevent financial losses.
+
+### 9. [Sales Forecasting Model](https://github.com/kueyram/Automatic-License-Plate-Detection)
+A time series forecasting model that predicts future sales based on historical sales data. The model helps businesses plan their inventory and optimize sales strategies.
+
+### 10. [Optimizing Equipment Performance through Predictive Maintenance Strategies](https://github.com/kueyram/Predictive-Maintenance)
+A machine learning model designed to predict equipment failures before they occur. By analyzing sensor data from machinery, the project helps in reducing downtime and maintenance costs through predictive maintenance.
+---
 
 
 ## Let's Connect! 🤝
