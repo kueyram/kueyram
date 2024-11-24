@@ -62,7 +62,7 @@ A sentiment analysis project that analyzes customer feedback to classify reviews
 ### 8. [Fraud Detection](https://github.com/kueyram/Fraud-Detection)
 A fraud detection model that uses machine learning to identify fraudulent credit card transactions. By analyzing transaction data, the model helps in detecting patterns of fraud to prevent financial losses.
 
-### 9. [Sales Forecasting Model](https://github.com/kueyram/Automatic-License-Plate-Detection)
+### 9. [Sales Forecasting Model](https://github.com/kueyram/Sales-Forecasting-Model)
 A time series forecasting model that predicts future sales based on historical sales data. The model helps businesses plan their inventory and optimize sales strategies.
 
 ### 10. [Optimizing Equipment Performance through Predictive Maintenance Strategies](https://github.com/kueyram/Predictive-Maintenance)
